@@ -1,4 +1,4 @@
-left_motor = "YOUR MOTRO ID HERE"
+left_motor = "YOUR MOTOR ID HERE"
 right_motor = "YOUR MOTOR ID HERE"
 
 def autonomous_setup():
